@@ -1,0 +1,18 @@
+/**
+ * @name Linux-Translucent
+ * @version 1.0.0
+ * @description Modified NoobieNoodle89's and DevilBro's theme
+ * @author FantomTchi7
+ * @website https://github.com/FantomTchi7/Discord-Linux-Translucent
+ */
+
+/* @import url(https://raw.githubusercontent.com/EnderDragonEP/Transparent-Discord-Theme/main/css/source.css); */
+@import url(https://enderdragonep.github.io/Transparent-Discord-Theme/css/source.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+
+:root {
+     --custom-theme-mix-amount-base: 10% !important; /* Change this to whatever you like! default is 10% */
+     --accentcolor: 0, 127, 0;
+     --accentcolor2: 255, 115, 250;
+     --linkcolor: 0, 176, 244;
+}
